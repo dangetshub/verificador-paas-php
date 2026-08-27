@@ -1,4 +1,4 @@
-&lt;?php
+<?php
 function evaluarPassword($pwd) {
 $puntos = 0;
 $reglas = [];
